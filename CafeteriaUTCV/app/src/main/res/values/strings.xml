@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CafeteriaUTCV</string>
+    <string name="add">Agregar producto</string>
+    <string name="order">Atender pedido</string>
+</resources>

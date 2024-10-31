@@ -1,0 +1,28 @@
+# Archivos de configuración específicos de Android Studio
+*.iml
+.gradle/
+.idea/
+local.properties
+
+# Archivos de construcción y caché
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Otros archivos innecesarios
+.DS_Store
+
+# Log/OS Files
+*.log
+
+# IntelliJ
+misc.xml
+deploymentTargetDropDown.xml
+render.experimental.xml
+
+# Google Services (e.g. APIs or Firebase)
+google-services.json
+
+# Android Profiling
+*.hprof
